@@ -1,16 +1,12 @@
-## Hi there 👋
+👋 Hi there, I'm Sourav Bakshi
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusiast, always eager to learn new things and contribute to exciting projects. Feel free to explore my repositories and reach out if you want to collaborate!
 
-<!--
-**souravbakshidevops/souravbakshidevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+🔭 I’m currently working on web applications, open-source contributions projects.
+🌱 I’m learning more about Cloud Technologies, Devops, and Ai
+👯 I’m looking to collaborate on exciting open-source projects.
+🤔 I’m open to discussing best practices in software development, AI, and cloud infrastructure..
+📫 Reach out to me via: (souravbakshi.crj@gmail.com)
+💬 Let's Connect
+Feel free to reach out to me on:
+Linkedine: www.linkedin.com/in/souravbakshi
