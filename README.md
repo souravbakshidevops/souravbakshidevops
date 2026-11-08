@@ -12,4 +12,4 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusia
 
 💬 Let's Connect
 Feel free to reach out to me on:
-Linkedine: www.linkedin.com/in/souravbakshi
+Linkedin: www.linkedin.com/in/souravbakshi
